@@ -117,7 +117,7 @@ export class SmartCLIDEDeploymentWidgetContribution extends AbstractViewContribu
     });
     //// ---------- VARIABLES ------------ /////
     this.settings = {
-      deployUrl: 'https://api.dev.smartclide.eu/deployment-service',
+      deployUrl: 'http://10.128.19.137:3000',
       stateKeycloakToken: '',
       stateServiceID: '',
       username: '',

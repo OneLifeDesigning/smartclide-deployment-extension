@@ -1,5 +1,5 @@
 export const mockSettings = {
-  deployUrl: 'http://10.128.27.31:3001',
+  deployUrl: 'http://10.128.19.137:3000',
   user: 'pberrocal',
   gitRepoUrl: 'https://gitlab.dev.smartclide.eu/pberrocal/test-kubernetes',
   project: 'test-kubernetes',
